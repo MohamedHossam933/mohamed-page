@@ -1,0 +1,10 @@
+li
+{
+    background: #EEE;
+}
+
+li:hover
+{
+    color: green;
+    background: green;
+}

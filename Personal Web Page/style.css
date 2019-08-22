@@ -1,0 +1,69 @@
+.body
+{
+    background-color: #6396e7;
+}
+
+.im
+{
+    height: 300px;
+    margin-left: 350px;
+    border-radius: 50%; 
+    border: 1px solid;
+}
+
+h1
+{
+    text-align: center;
+    font-family: Broadway;
+}
+
+.h
+{
+    text-align: center;
+    color: #fff;
+}
+
+.card
+{
+    margin-top: 50px;
+}
+
+.c
+{
+    margin-bottom: 50px;
+}
+
+.info
+{
+    background: #2c3e50;
+    width: 100%;
+}
+
+.p
+{
+    color: #cdcdcd;
+    font-size: 18px;
+}
+
+.fab
+{
+    font-size: 28px;
+}
+
+.fas
+{
+    font-size: 28px;
+    color: #fff;
+}
+
+.em
+{
+    color: #cdcdcd;
+}
+
+.para
+{
+    color: #cdcdcd;
+    font-size: 18px;
+    font-family: comic sans MS;
+}

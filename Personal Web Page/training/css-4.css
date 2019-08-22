@@ -1,0 +1,202 @@
+.top
+{
+    background-color: #1abc9c !important;
+}
+
+.vector
+{
+    width: 18%;
+    margin-left: 550px;
+    margin-top: 200px;
+}
+
+.start
+{
+    text-align: center;
+    color: white;
+    font-family: Arial black;
+    font-size: 60px !important;
+    margin-top: 40px;
+}
+
+.f
+{
+    color: white;
+    font-size: 38px;
+    
+}
+
+hr{
+    width: 130px !important;
+    background: white;
+    display: inline-block;
+    height: 3px !important;
+    
+}
+
+.h
+{
+    width: 130px !important;
+    background: #2c3e50;
+    display: inline-block;
+    height: 3px !important;
+}
+
+.s
+{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 100px !important;
+}
+
+#mainNav
+{
+    background: #2c3e50 !important;
+}
+
+.nav-link
+{
+    color: white !important;
+    font-family: arial black;
+}
+
+.nav-link:hover
+{
+    color: #1abc9c !important;
+}
+
+.navbar-brand
+{
+    color: white !important;
+    font-family: arial black;
+}
+
+#portfolio
+{
+    color: #2c3e50;
+    text-align: center;
+    font-family: arial black;
+}
+
+.st
+{
+    color: #2c3e50;
+    font-size: 38px;
+}
+
+.card
+{
+    margin-bottom: 10px !important;
+}
+
+#about
+{
+    text-align: center;
+    color: white;
+    font-family: Arial black;
+    font-size: 60px !important;
+    margin-top: 40px;
+}
+
+.par
+{
+    text-align: center;
+    color: white;
+    margin-left: 200px;
+}
+
+.bt
+{
+    margin-left: 600px !important;
+    background: inherit !important;
+    padding: 15px !important;
+    width: 200px ;
+    color: white !important;
+    font-size: 20px !important;
+    margin-bottom: 20px !important;
+}
+
+#contact
+{
+    color: #2c3e50;
+    text-align: center;
+    font-family: arial black;
+    margin-top: 20px;
+}
+
+input
+{
+    border-style: hidden;
+}
+
+textarea
+{
+    border-style: hidden;
+}
+
+.su
+{
+    margin-left: 350px !important;
+    width: 80px;
+    height: 50px;
+    font-size: 18px !important;
+    background: #1abc9c !important;
+    border-radius: 15% !important;
+    margin-bottom: 250px !important;
+}
+
+.info
+{
+    background: #2c3e50;
+    width: 100%;
+}
+
+h4
+{
+    text-align: center;
+    color: white !important;
+    margin-left: 120px !important;
+    margin-top: 50px !important;
+    
+    font-family: arial black;
+}
+
+.x
+{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    margin-left: 120px;
+    
+}
+
+.y
+{
+    color: white !important;
+    margin-left: 10px !important;
+}
+
+.fb
+{
+    color: white !important;
+    margin-left: 130px;
+}
+
+.hlink
+{
+    color: #1abc9c !important;
+}
+
+.end
+{
+    background: #1a252f;
+    height: 50px;
+}
+
+.en
+{
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+}
