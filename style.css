@@ -59,7 +59,7 @@ h1
 .tel
 {
     color: #fff;
-    font-size: 10px;
+    font-size: 10px !important;
 }
 
 .em
