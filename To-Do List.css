@@ -1,26 +1,32 @@
 body
 {
-    background-color: #d3a8cc;
+    background-color: #d3a8cc !important;
 }
 
 h1
 {
-    color: white;
+    color: #fff !important;
+    font-family: comic sans MS !important;
     text-align: center;
-    font-family: comic sans MS;
-    font-size: 48px;
+    font-weight: bold !important;
+    font-size: 50px !important;
+    margin-top: 20px !important;
+    margin-bottom: 20px !important;
 }
 
 p
 {
     text-align: center;
     font-family: comic sans MS;
+    margin-bottom: 30px;
+    margin-top: 20px;
     font-weight: bold; 
+    font-size: 16px;
 }
 
 .first
 {
-    color: #0d326c;
+    color: #0d326c;    
 }
 
 .middle
@@ -93,6 +99,7 @@ ul li.checked::before
 {
     background-color: #f44336;
     color: white;
+    height: 100%;
 }
   
   /* Style the header */
@@ -113,24 +120,33 @@ ul li.checked::before
 } 
   
   /* Style the input */
-input 
+.in
 {
     margin: 0;
     border: none;
     border-radius: 0;
-    width: 75%;
+    width: 100%;
     padding: 10px;
     float: left;
     font-size: 16px;
     font-family: comic sans MS;
 }
+
+/* .bt
+{
+    width: 50% !important;
+    height: 44px !important;
+    margin-left: -30px !important;
+    font: 
+} */
   
   /* Style the "Add" button */
 .addBtn 
 {
-    width: 100px;
-    height: 26px;
+    width: 50%;
+    height: 44px;
     padding: 8px;
+    margin-left: -30px;
     background: #d9d9d9;
     color: #555;
     float: left;
