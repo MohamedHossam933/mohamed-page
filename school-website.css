@@ -1,0 +1,411 @@
+body
+{
+    background-image: url("class.jpg");
+    background-size: cover; 
+}
+
+.login
+{
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    width: 400px;
+    height: 500px;
+    margin-left: 600px;
+    margin-top: 100px;
+    border: 2px solid;
+    border-radius: 10px;   
+}
+
+h1
+{
+    text-align: center;
+    font-size: 70px !important;
+}
+
+.info
+{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.user
+{
+    font-size: 28px;
+    font-family: Hobo std;
+    color: rgb(255, 158, 67); 
+}
+
+.pass
+{
+    margin-top: 50px;
+    font-size: 28px;
+    font-family: Hobo std;
+    color: rgb(255, 158, 67);
+}
+
+.l
+{
+    border-radius: 10px;
+    width: 300px; 
+    font-family: comic sans MS !important;
+}
+
+button
+{
+    margin-top: 50px !important;
+    width: 300px;
+    border-radius: 20px !important; 
+    cursor: pointer;
+    background: #28a745;
+    border: #28a745;
+    color: #fff;
+    height: 40px;
+    font-size: 15px;
+    transition: 0.2s;
+}
+
+button:hover
+{
+    background: #218838;
+    border: #218838;
+}
+
+.menu
+{
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    width: 1200px;
+    height: 500px;
+    margin-left: 200px;
+    margin-top: 100px;
+    border: 2px solid;
+    border-radius: 10px;
+}
+
+.av1
+{
+    margin-left: -60px;
+}
+
+.av2
+{
+    margin-left: 30px !important;
+}
+
+.student
+{
+    margin-top: 85px;
+    text-align: center;
+    font-size: 28px;
+    background: #23d829;
+    height: 60px;
+    width: 500px;
+    margin-left: -60px !important;
+    padding-top: 7px;
+    padding-right: 80px !important;
+    border-radius: 10px;
+    cursor: pointer; 
+    transition: 0.2s;
+}
+
+.student:hover
+{
+    background: #1eb323;
+}
+
+.s
+{
+    padding-right: 50px;
+    color: #000;
+    font-size: 35px;
+}
+
+a
+{
+    color: #fff !important;
+    text-decoration-line: none !important;
+}
+
+.i
+{
+    padding-right: 90px;
+}
+
+.e
+{
+    padding-right: 120px;
+}
+
+.sel
+{
+    margin-top: 50px !important;
+    margin-left: 200px !important;
+}
+
+.search
+{
+    margin-top: 20px;
+    margin-left: 50px;
+    border-radius: 0px;
+    height: 30px;
+    width: 600px; 
+    font-family: comic sans MS !important; 
+}
+
+.sear
+{
+    border-radius: 0px !important;
+    height: 30px;
+    width: 70px;
+    background: rgb(153, 153, 153);
+    border-color: rgb(153, 153, 153);
+    color: #000;
+    margin-left: -4px;  
+}
+
+.sear:hover
+{
+    background: rgb(112, 112, 112);
+    border-color: rgb(112, 112, 112) 
+}
+
+.sr
+{
+    margin-left: 850px;
+    margin-top: -30px;
+}
+
+.menu2
+{
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    width: 1200px;
+    height: 600px;
+    margin-left: 200px;
+    margin-top: 100px;
+    border: 2px solid;
+    border-radius: 10px;
+    overflow-y: auto;
+    
+}
+
+.menu3
+{
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    width: 1200px;
+    height: 600px;
+    margin-left: 200px;
+    margin-top: 100px;
+    border: 2px solid;
+    border-radius: 10px;
+}
+
+.la
+{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.lo
+{
+    margin-left: 350px;
+    margin-top: 20px;
+    
+}
+
+.cor
+{
+    margin-left: 20px;
+}
+
+.course
+{
+    background: rgb(255, 255, 255);
+    color: white;
+    width: 400px;
+    height: 250px;
+    border: 2px solid;
+    border-radius: 10px;
+    margin-left: 90px;
+    margin-top: -20px;
+}
+
+.addBtn 
+{
+    width: 80px !important;
+    height: 30px !important;
+    margin-left: -4px;
+    border-radius: 0px !important; 
+    background: #23d829;
+    color: #fff;
+    text-align: center;
+    font-size: 16px;
+    font-family: comic sans MS;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.2s;
+}
+  
+.addBtn:hover 
+{
+    background-color: #1eb323;
+}
+
+.in
+{
+    margin-top: -40px;
+    margin-left: 30px;
+}
+
+.inp
+{
+    width: 200px;
+}
+
+ul li 
+{
+    width: 200px;
+    cursor: pointer;
+    position: relative;
+    padding: 12px 8px 12px 40px;
+    background: #fff;
+    color: #000;
+    font-size: 15px;
+    font-family: comic sans MS;
+    transition: 0.2s;
+    list-style: none;
+    margin-top: 10px;
+    margin-left: -30px;
+    /* make the list items unselectable */
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+  /* Darker background-color on hover */
+ul li:hover 
+{
+    background: #ddd;
+}
+
+.st
+{
+    background: inherit;
+    color: #fff;
+    width: 390px;
+    margin-left: -110px !important;
+}
+
+.st:hover
+{
+    background: inherit;
+}
+
+.id
+{
+    margin-left: 50px;
+}
+
+.tn
+{
+    margin-left: 50px;
+    margin-top: 50px; 
+    width: 250px;
+}
+
+.tna
+{
+    margin-left: 250px;
+}
+
+.btn
+{
+    background: rgb(194, 194, 194) !important;
+    color: #000;
+    height: 30px;
+    margin-left: 50px;
+    margin-top: -5px;
+    padding: 1px !important;
+    width: 150px;
+    cursor: pointer;
+    transition: 0.2s;
+    border-radius: 5px !important; 
+}
+
+.btn:hover
+{
+    background: rgb(136, 136, 136) !important; 
+}
+
+.save 
+{
+    width: 125px !important;
+    margin-top: 100px !important;
+    float: right;
+    margin-right: 25px;
+}
+
+.ed
+{
+    background: inherit;
+    color: #fff;
+    width: 390px;
+    margin-left: -40px !important;
+}
+
+.ed:hover
+{
+    background: inherit;
+}
+
+.menu4
+{
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    width: 1200px;
+    height: 500px;
+    margin-left: 200px;
+    margin-top: 100px;
+    border: 2px solid;
+    border-radius: 10px;
+    overflow-y: auto; 
+}
+
+.p
+{
+    color: #fff;
+    font-family: comic sans MS;
+    margin-left: 200px;
+}
+
+.btn-2
+{
+    background: rgb(194, 194, 194) !important;
+    color: #000;
+    height: 30px;
+    padding: 1px !important;
+    width: 150px;
+    cursor: pointer;
+    transition: 0.2s;
+    border-radius: 5px !important;
+    float: right;
+    margin-right: 25px;
+    margin-bottom: 20px;
+}
+
+.btn-2:hover
+{
+    background: rgb(136, 136, 136) !important; 
+}
+
+.copy
+{
+    background: #333;
+    color: #23d829;
+    padding-left: 580px !important;
+    margin-top: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
