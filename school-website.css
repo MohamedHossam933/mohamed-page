@@ -229,6 +229,7 @@ a
     border-radius: 10px;
     margin-left: 90px;
     margin-top: -20px;
+    overflow-y: auto;
 }
 
 .addBtn 
